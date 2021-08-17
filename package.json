@@ -1,0 +1,14 @@
+{
+  "name": "test-javascript",
+  "version": "1.0.0",
+  "description": "javascript-common-line",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sellami Zied",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
